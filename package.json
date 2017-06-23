@@ -11,12 +11,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/medseek-engineering/iui-table.git"
+    "url": "https://github.com/Symphony-corp/iui-table.git"
   },
   "author": "Influence Health, Inc.",
   "license": "BSD-2-Clause",
   "bugs": {
-    "url": "https://github.com/medseek-engineering/iui-table/issues"
+    "url": "https://github.com/Symphony-corp/iui-table/issues"
   },
   "dependencies": {
     "lodash": "^2.4.1"
@@ -50,7 +50,7 @@
     "karma-ng-html2js-preprocessor": "~0.1.0",
     "karma-requirejs": "~0.2.0",
     "karma-spec-reporter": "0.0.6",
-    "iui-general": "git+ssh://git@github.com:medseek-engineering/iui-general.git",
-    "ui-core": "git+ssh://git@github.com:medseek-engineering/ui-core.git"
+    "iui-general": "git+ssh://git@github.com:Symphony-corp/iui-general.git",
+    "ui-core": "git+ssh://git@github.com:Symphony-corp/ui-core.git"
   }
 }
