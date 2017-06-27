@@ -1,7 +1,7 @@
 # iui-table
 Angular dynamic table directive
 
-[iui-table Examples](http://medseek-engineering.github.io/iui-table/style-guide/ "iui-table Examples")
+[iui-table Examples](http://Symphony-corp.github.io/iui-table/style-guide/ "iui-table Examples")
 
 
 ## Setup
@@ -10,7 +10,7 @@ Add to package.json:
 ```javascript
 "dependencies": {
     ...
-    "iui-table": "git+ssh://git@github.com:medseek-engineering/iui-table.git"
+    "iui-table": "git+ssh://git@github.com:Symphony-corp/iui-table.git"
 }
 ```
 
